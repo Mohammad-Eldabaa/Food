@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="error">Error fetching Categories Unable to resolve host "www.themealdb.com": No address associated with hostname</string>
+</resources>
